@@ -1,6 +1,6 @@
 # NG8 buildOptimizer issue
 
-The issue appear when after `antlr4ts` and run `ng serve --prod`.
+The issue appear when after installing `antlr4ts` and run `ng serve --prod`.
 
 ![issue.jpg](issue.jpg)
 
